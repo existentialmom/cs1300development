@@ -5,8 +5,9 @@ I also installed "redux" and "redux-thunk", with:
 ```
 npm install --save redux react-redux
 ```
+```
 npm install --save redux-thunk
-
+```
 ### Link to Deployed Website
 If you used the stencil code: `https://existentialmom.github.io/cs1300development`
 

@@ -1,0 +1,96 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "orange",
+        "availableSeason": ["spring", "summer", "fall", "winter"],
+        "price": 2, 
+        "flavor": ["sweet"]
+      },
+  
+      {
+        "id": 2,
+        "title": "banana",
+        "availableSeason": ["spring", "summer", "fall", "winter"],
+        "price": 1,
+        "flavor": ["sweet"]
+      },
+  
+      {
+        "id": 3,
+        "title": "guanabana",
+        "availableSeason": ["fall", "winter"],
+        "price": 4,
+        "flavor": ["sour"]
+      },
+  
+      {
+        "id": 4,
+        "title": "blueberries",
+        "availableSeason": ["spring", "summer"],
+        "price": 9,
+        "flavor": ["sweet"]
+      },
+  
+      {
+        "id": 5,
+        "title": "Mango",
+        "availableSeason": ["summer"],
+        "price": 2,
+        "flavor": ["sweet"]
+      },
+  
+      {
+        "id": 6,
+        "title": "Kumquat",
+        "availableSeason": ["spring", "winter"],
+        "price": 2,
+        "flavor": ["sweet", "sour"]
+      },
+  
+      {
+        "id": 7,
+        "title": "Watermelon",
+        "availableSeason": ["summer"],
+        "price": 5,
+        "flavor": ["sweet"]
+      },
+  
+      {
+        "id": 8,
+        "title": "Apple",
+        "availableSeason": ["spring", "summer", "fall", "winter"],
+        "price": 1,
+        "flavor": ["sweet"]
+      },
+      {
+        "id": 9,
+        "title": "Avocado",
+        "availableSeason": ["summer", "fall"],
+        "price": 1,
+        "flavor": ["neither"]
+      },
+      {
+        "id": 10,
+        "title": "Lychee",
+        "availableSeason": ["summer", "fall"],
+        "price": 1,
+        "flavor": ["sweet"]
+      },
+      {
+        "id": 11,
+        "title": "Figs",
+        "availableSeason": ["summer", "fall"],
+        "price": 3,
+        "flavor": ["sweet"]
+      },
+      {
+        "id": 12,
+        "title": "Lemon",
+        "availableSeason": ["summer", "fall", "winter"],
+        "price": 1,
+        "flavor": ["sour"]
+      }
+    ]
+  }
+  

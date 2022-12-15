@@ -8,6 +8,9 @@ npm install --save redux react-redux
 ```
 npm install --save redux-thunk
 ```
+
+(I am getting a pull error from my IDE and I am not sure if that will affect the run)
+
 ### Link to Deployed Website
 If you used the stencil code: `https://existentialmom.github.io/cs1300development`
 
